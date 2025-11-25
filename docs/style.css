@@ -47,17 +47,6 @@ header h1 {
     border: 2px solid #ccc;
     border-radius: 6px;
 }
-.fila {
-  display: flex;
-  gap: 20px;         
-  justify-content: space-between;
-  align-items: flex-start;
-}
-
-.fila section {
-  width: 48%;        
-}
-
 
     section {
       margin-bottom: 40px;
